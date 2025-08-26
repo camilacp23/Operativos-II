@@ -1,0 +1,7 @@
+.DS_Store
+*.class
+*.log
+tests/jmeter/report/
+tests/jmeter/results.jtl
+haproxy/certs/*.key
+haproxy/certs/*.crt
